@@ -1209,3 +1209,682 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.09-16.48.39:433][722]LogFileHelpers: Saving map 'Map_01' took 0.247
 [2022.10.09-16.48.39:440][722]AssetCheck: New page: Asset Save: Map_01
 [2022.10.09-16.48.39:440][722]LogContentValidation: Display: Validating World /Game/Landscapes/Maps/Map_01.Map_01
+[2022.10.09-16.54.43:500][569]Cmd: TRANSACTION UNDO
+[2022.10.09-16.54.43:500][569]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.10.09-16.54.43:546][569]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.10.09-16.54.44:020][580]Cmd: TRANSACTION UNDO
+[2022.10.09-16.54.44:020][580]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.10.09-16.54.44:039][580]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.10.09-16.54.50:607][967]Cmd: TRANSACTION UNDO
+[2022.10.09-16.54.50:607][967]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.10.09-16.56.11:263][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.10.09-16.56.13:335][ 71]LogSlate: Window 'Save Content' being destroyed
+[2022.10.09-16.58.25:457][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.10.09-16.58.25:461][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscapes/Maps/Map_01" FILE="../../../../projects/Landscapes/UE4/Saved/Autosaves/Game/Landscapes/Maps/Map_01_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.09-16.58.25:544][489]LogSavePackage: Moving '../../../../projects/Landscapes/UE4/Saved/Map_01_Auto1DBDAC3B244D54E6E632E4195CD63DB6C.tmp' to '../../../../projects/Landscapes/UE4/Saved/Autosaves/Game/Landscapes/Maps/Map_01_Auto1.umap'
+[2022.10.09-16.58.25:546][489]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Landscapes/Maps/Map_01' took 0.099
+[2022.10.09-16.58.25:546][489]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.099
+[2022.10.09-17.04.33:788][593]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.10.09-17.15.06:430][961]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.10.09-17.15.06:430][961]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.10.09-17.15.06:430][961]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2022.10.09-17.15.06:430][961]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2022.10.09-17.15.06:430][961]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2022.10.09-17.15.06:430][961]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2022.10.09-17.15.06:430][961]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2022.10.09-17.15.06:430][961]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2022.10.09-17.15.06:430][961]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X256)
+[2022.10.09-17.15.06:464][961]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X256)
+[2022.10.09-17.15.06:464][961]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X256)
+[2022.10.09-17.15.06:464][961]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X256)
+[2022.10.09-17.15.06:912][961]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2022.10.09-17.15.06:913][961]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2022.10.09-17.15.06:913][961]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2022.10.09-17.15.06:913][961]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2022.10.09-17.15.06:913][961]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X512)
+[2022.10.09-17.15.06:913][961]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 512X512)
+[2022.10.09-17.15.06:913][961]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 512X512)
+[2022.10.09-17.15.06:913][961]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2022.10.09-17.15.06:913][961]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X256)
+[2022.10.09-17.15.06:913][961]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 512X256)
+[2022.10.09-17.15.06:913][961]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 512X256)
+[2022.10.09-17.15.06:913][961]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 512X256)
+[2022.10.09-17.15.06:914][961]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2022.10.09-17.15.06:930][961]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2022.10.09-17.15.06:946][961]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2022.10.09-17.15.06:960][961]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2022.10.09-17.15.06:971][961]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X512)
+[2022.10.09-17.15.06:988][961]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 512X512)
+[2022.10.09-17.15.07:004][961]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 512X512)
+[2022.10.09-17.15.07:020][961]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2022.10.09-17.15.07:034][961]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X256)
+[2022.10.09-17.15.07:042][961]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 512X256)
+[2022.10.09-17.15.07:053][961]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 512X256)
+[2022.10.09-17.15.07:059][961]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 512X256)
+[2022.10.09-17.16.43:835][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.09-17.16.43:844][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscapes/Maps/Map_01" FILE="../../../../projects/Landscapes/UE4/Saved/Autosaves/Game/Landscapes/Maps/Map_01_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.09-17.16.43:863][506]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2022.10.09-17.16.43:876][506]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2022.10.09-17.16.43:885][506]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 512X512)
+[2022.10.09-17.16.43:894][506]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 512X512)
+[2022.10.09-17.16.44:166][506]LogSavePackage: Moving '../../../../projects/Landscapes/UE4/Saved/Map_01_Auto297278EF849636CD127EB45B6C4AAA2AA.tmp' to '../../../../projects/Landscapes/UE4/Saved/Autosaves/Game/Landscapes/Maps/Map_01_Auto2.umap'
+[2022.10.09-17.16.44:167][506]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Landscapes/Maps/Map_01' took 0.340
+[2022.10.09-17.16.44:167][506]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.340
+[2022.10.09-17.18.38:157][482]Cmd: POLY SELECT ADJACENT WALLS
+[2022.10.09-17.21.18:913][757]Cmd: DELETE
+[2022.10.09-17.21.18:913][757]Cmd: ACTOR DELETE
+[2022.10.09-17.21.18:938][757]LogEditorActor: Deleted Actor: Landscape
+[2022.10.09-17.21.19:165][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.10.09-17.21.19:171][757]LogEditorActor: Deleted 1 Actors (0.256 secs)
+[2022.10.09-17.22.28:183][410]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.10.09-17.22.28:194][410]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X512)
+[2022.10.09-17.22.28:194][410]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X64)
+[2022.10.09-17.22.28:194][410]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2022.10.09-17.22.28:426][410]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2022.10.09-17.22.28:427][410]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X512)
+[2022.10.09-17.22.28:427][410]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X64)
+[2022.10.09-17.22.28:427][410]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2022.10.09-17.22.28:430][410]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2022.10.09-17.22.28:455][410]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X512)
+[2022.10.09-17.22.28:461][410]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X64)
+[2022.10.09-17.22.28:469][410]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2022.10.09-17.24.18:401][227]Cmd: TRANSACTION UNDO
+[2022.10.09-17.24.18:402][227]LogEditorTransaction: Undo Set Location
+[2022.10.09-17.24.49:045][167]Cmd: TRANSACTION UNDO
+[2022.10.09-17.24.49:045][167]LogEditorTransaction: Undo Move Actors
+[2022.10.09-17.24.49:512][178]Cmd: TRANSACTION UNDO
+[2022.10.09-17.24.49:512][178]LogEditorTransaction: Undo Move Actors
+[2022.10.09-17.24.49:922][198]Cmd: TRANSACTION UNDO
+[2022.10.09-17.24.49:922][198]LogEditorTransaction: Undo Clicking on Actors
+[2022.10.09-17.24.50:287][214]Cmd: TRANSACTION UNDO
+[2022.10.09-17.24.50:287][214]LogEditorTransaction: Undo Set Location
+[2022.10.09-17.24.51:822][276]Cmd: TRANSACTION UNDO
+[2022.10.09-17.24.51:822][276]LogEditorTransaction: Undo Rename Actor
+[2022.10.09-17.24.52:773][319]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape_gOOD)
+[2022.10.09-17.25.28:275][809]Cmd: SELECT NONE
+[2022.10.09-17.26.23:819][222]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.10.09-17.26.23:819][222]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 128X512)
+[2022.10.09-17.26.23:819][222]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2022.10.09-17.26.23:819][222]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2022.10.09-17.26.23:819][222]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 128X512)
+[2022.10.09-17.26.23:836][222]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X128)
+[2022.10.09-17.26.23:836][222]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.10.09-17.26.23:836][222]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X128)
+[2022.10.09-17.26.23:836][222]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 128X128)
+[2022.10.09-17.26.24:298][222]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2022.10.09-17.26.24:298][222]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2022.10.09-17.26.24:298][222]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 128X512)
+[2022.10.09-17.26.24:298][222]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2022.10.09-17.26.24:298][222]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 128X512)
+[2022.10.09-17.26.24:298][222]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2022.10.09-17.26.24:298][222]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X128)
+[2022.10.09-17.26.24:298][222]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X128)
+[2022.10.09-17.26.24:298][222]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 128X128)
+[2022.10.09-17.26.24:299][222]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2022.10.09-17.26.24:326][222]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2022.10.09-17.26.24:338][222]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 128X512)
+[2022.10.09-17.26.24:346][222]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2022.10.09-17.26.24:359][222]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2022.10.09-17.26.24:372][222]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 128X512)
+[2022.10.09-17.26.24:381][222]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X128)
+[2022.10.09-17.26.24:387][222]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X128)
+[2022.10.09-17.26.24:393][222]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 128X128)
+[2022.10.09-17.26.32:407][540]Cmd: DELETE
+[2022.10.09-17.26.32:407][540]Cmd: ACTOR DELETE
+[2022.10.09-17.26.32:449][540]LogEditorActor: Deleted Actor: Landscape
+[2022.10.09-17.26.32:562][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.10.09-17.26.32:569][540]LogEditorActor: Deleted 1 Actors (0.163 secs)
+[2022.10.09-17.26.35:109][641]Cmd: DELETE
+[2022.10.09-17.26.35:109][641]Cmd: ACTOR DELETE
+[2022.10.09-17.26.35:148][641]LogEditorActor: Deleted Actor: Landscape
+[2022.10.09-17.26.35:399][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.10.09-17.26.35:401][641]LogEditorActor: Deleted 1 Actors (0.293 secs)
+[2022.10.09-17.26.50:159][268]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.10.09-17.26.50:159][268]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.10.09-17.26.50:159][268]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2022.10.09-17.26.50:181][268]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2022.10.09-17.26.50:182][268]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 128X512)
+[2022.10.09-17.26.50:182][268]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 128X512)
+[2022.10.09-17.26.50:182][268]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X128)
+[2022.10.09-17.26.50:182][268]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 128X128)
+[2022.10.09-17.26.50:182][268]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X128)
+[2022.10.09-17.26.50:724][268]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2022.10.09-17.26.50:724][268]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2022.10.09-17.26.50:724][268]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 128X512)
+[2022.10.09-17.26.50:724][268]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2022.10.09-17.26.50:724][268]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2022.10.09-17.26.50:724][268]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 128X512)
+[2022.10.09-17.26.50:724][268]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X128)
+[2022.10.09-17.26.50:724][268]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X128)
+[2022.10.09-17.26.50:724][268]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 128X128)
+[2022.10.09-17.26.50:725][268]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2022.10.09-17.26.50:755][268]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2022.10.09-17.26.50:769][268]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 128X512)
+[2022.10.09-17.26.50:776][268]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2022.10.09-17.26.50:791][268]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2022.10.09-17.26.50:807][268]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 128X512)
+[2022.10.09-17.26.50:815][268]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X128)
+[2022.10.09-17.26.50:822][268]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X128)
+[2022.10.09-17.26.50:832][268]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 128X128)
+[2022.10.09-17.27.54:268][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.10.09-17.27.54:279][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscapes/Maps/Map_01" FILE="../../../../projects/Landscapes/UE4/Saved/Autosaves/Game/Landscapes/Maps/Map_01_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.09-17.27.54:779][684]LogSavePackage: Moving '../../../../projects/Landscapes/UE4/Saved/Map_01_Auto3C8BC58BC480E217B3F9C209FAE318924.tmp' to '../../../../projects/Landscapes/UE4/Saved/Autosaves/Game/Landscapes/Maps/Map_01_Auto3.umap'
+[2022.10.09-17.27.54:782][684]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Landscapes/Maps/Map_01' took 0.529
+[2022.10.09-17.27.54:782][684]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.529
+[2022.10.09-17.38.38:864][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscapes/Maps/Map_01" FILE="../../../../projects/Landscapes/UE4/Content/Landscapes/Maps/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.09-17.38.38:880][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.10.09-17.38.39:906][955]LogSavePackage: Moving '../../../../projects/Landscapes/UE4/Saved/Map_015AEA42304D16DE5B290646B1F264D1F0.tmp' to '../../../../projects/Landscapes/UE4/Content/Landscapes/Maps/Map_01.umap'
+[2022.10.09-17.38.40:001][955]AssetCheck: New page: Asset Save: Map_01
+[2022.10.09-17.38.40:001][955]LogContentValidation: Display: Validating World /Game/Landscapes/Maps/Map_01.Map_01
+[2022.10.09-17.39.22:932][755]Cmd: DELETE
+[2022.10.09-17.39.22:932][755]Cmd: ACTOR DELETE
+[2022.10.09-17.39.23:005][755]LogEditorActor: Deleted Actor: Landscape
+[2022.10.09-17.39.23:117][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.10.09-17.39.23:140][755]LogEditorActor: Deleted 1 Actors (0.208 secs)
+[2022.10.09-17.39.39:762][321]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape_Good)
+[2022.10.09-17.39.56:066][466]LogSlate: Window 'Save Level As' being destroyed
+[2022.10.09-17.39.57:275][466]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 128X128)
+[2022.10.09-17.39.57:275][466]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X128)
+[2022.10.09-17.39.57:275][466]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X128)
+[2022.10.09-17.39.57:275][466]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 128X512)
+[2022.10.09-17.39.57:275][466]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2022.10.09-17.39.57:275][466]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2022.10.09-17.39.57:275][466]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 128X512)
+[2022.10.09-17.39.57:275][466]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.10.09-17.39.57:275][466]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.10.09-17.39.57:788][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.09-17.39.57:853][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscapes/Maps/Map_Import" FILE="../../../../projects/Landscapes/UE4/Content/Landscapes/Maps/Map_Import.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.09-17.39.57:904][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.10.09-17.39.58:857][466]LogSavePackage: Moving '../../../../projects/Landscapes/UE4/Saved/Map_Import6D4473F74F2BE3280BF771B6466EB6D4.tmp' to '../../../../projects/Landscapes/UE4/Content/Landscapes/Maps/Map_Import.umap'
+[2022.10.09-17.39.58:916][466]LogFileHelpers: Saving map 'Map_Import' took 2.829
+[2022.10.09-17.39.58:917][466]Cmd: MAP LOAD FILE="../../../../projects/Landscapes/UE4/Content/Landscapes/Maps/Map_Import.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.09-17.39.58:952][466]LightingResults: New page: Lighting Build
+[2022.10.09-17.39.58:954][466]LoadErrors: New page: Loading map: Map_Import.umap
+[2022.10.09-17.39.58:964][466]LogWorld: UWorld::CleanupWorld for Map_01, bSessionEnded=true, bCleanupResources=true
+[2022.10.09-17.39.58:969][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.09-17.39.58:975][466]MapCheck: New page: Map Check
+[2022.10.09-17.39.58:975][466]LightingResults: New page: Lighting Build
+[2022.10.09-17.39.58:991][466]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.09-17.39.59:030][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.10.09-17.39.59:040][466]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Import'.
+[2022.10.09-17.39.59:259][466]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.09-17.39.59:259][466]LogAIModule: Creating AISystem for world Map_Import
+[2022.10.09-17.39.59:292][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.09-17.39.59:360][466]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.09-17.39.59:361][466]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,155ms to complete.
+[2022.10.09-17.39.59:361][466]LogFileHelpers: Loading map 'Map_Import' took 0.445
+[2022.10.09-17.39.59:368][466]AssetCheck: New page: Asset Save: Map_Import
+[2022.10.09-17.39.59:368][466]LogContentValidation: Display: Validating World /Game/Landscapes/Maps/Map_Import.Map_Import
+[2022.10.09-17.51.07:481][450]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape_Good)
+[2022.10.09-17.51.55:432][923]MapCheck: New page: Map Check
+[2022.10.09-17.51.55:462][923]LightingResults: New page: Lighting Build - 9 окт. 2022 г., 23:51:55
+[2022.10.09-17.51.55:765][923]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.10.09-17.51.56:483][923]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.10.09-17.51.56:508][923]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.10.09-17.51.57:558][923]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.10.09-17.51.57:559][923]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9512
+[2022.10.09-17.52.04:806][923]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2022.10.09-17.52.04:808][923]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.10.09-17.52.04:808][923]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.10.09-17.52.04:808][923]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.10.09-17.52.04:808][923]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.10.09-17.52.04:808][923]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.10.09-17.52.05:304][923]LogEditorBuildUtils: Build time 0:09
+[2022.10.09-17.52.05:329][923]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_649, compiling. 
+[2022.10.09-17.52.05:346][923]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.10.09-17.52.05:346][923]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.10.09-17.52.05:346][923]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_649, compiling. 
+[2022.10.09-17.52.05:388][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.10.09-17.52.05:389][924]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.10.09-17.52.35:412][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.10.09-17.54.11:151][286]LogEditorViewport: Clicking Background
+[2022.10.09-17.54.13:642][327]Job is a success!
+[2022.10.09-17.54.14:245][328]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.128s
+[2022.10.09-17.54.14:245][328]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2022.10.09-17.54.14:245][328]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 1.1Mb due to 0.010000 MinBrickError)
+[2022.10.09-17.54.14:245][328]LogVolumetricLightmapImport:      Bricks at depth
+[2022.10.09-17.54.14:245][328]LogVolumetricLightmapImport:          0: 23.5% covering 100.0% of volume
+[2022.10.09-17.54.14:245][328]LogVolumetricLightmapImport:          1: 76.5% covering 5.1% of volume
+[2022.10.09-17.54.14:245][328]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2022.10.09-17.54.14:245][328]LogVolumetricLightmapImport:      Bricks in each level
+[2022.10.09-17.54.14:245][328]LogVolumetricLightmapImport:          Map_Import 			 34 bricks 	 100.0% (Persistent Level)
+[2022.10.09-17.54.15:534][328]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:534][328]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:534][328]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2022.10.09-17.54.15:534][328]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2022.10.09-17.54.15:534][328]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:535][328]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2022.10.09-17.54.15:543][328]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2022.10.09-17.54.15:558][328]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:558][328]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2022.10.09-17.54.15:558][328]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:558][328]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:558][328]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2022.10.09-17.54.15:561][328]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:561][328]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2022.10.09-17.54.15:561][328]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:561][328]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2022.10.09-17.54.15:561][328]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2022.10.09-17.54.15:561][328]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:561][328]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:561][328]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2022.10.09-17.54.15:561][328]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:561][328]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2022.10.09-17.54.15:561][328]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:561][328]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2022.10.09-17.54.15:561][328]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:561][328]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2022.10.09-17.54.15:561][328]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:562][328]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 128X128)
+[2022.10.09-17.54.15:562][328]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2022.10.09-17.54.15:562][328]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:562][328]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:562][328]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2022.10.09-17.54.15:562][328]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:562][328]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:562][328]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 128X128)
+[2022.10.09-17.54.15:562][328]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 256X256)
+[2022.10.09-17.54.15:562][328]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:562][328]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2022.10.09-17.54.15:562][328]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:562][328]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 128X128)
+[2022.10.09-17.54.15:562][328]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:563][328]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:563][328]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 128X128)
+[2022.10.09-17.54.15:563][328]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 128X128)
+[2022.10.09-17.54.15:563][328]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:563][328]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 128X128)
+[2022.10.09-17.54.15:563][328]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:563][328]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 128X128)
+[2022.10.09-17.54.15:563][328]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:563][328]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 256X256)
+[2022.10.09-17.54.15:563][328]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:563][328]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 256X256)
+[2022.10.09-17.54.15:564][328]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:564][328]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 256X256)
+[2022.10.09-17.54.15:564][328]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:564][328]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 256X256)
+[2022.10.09-17.54.15:564][328]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:564][328]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 256X256)
+[2022.10.09-17.54.15:564][328]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:564][328]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 128X128)
+[2022.10.09-17.54.15:564][328]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:564][328]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 128X128)
+[2022.10.09-17.54.15:564][328]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:565][328]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 256X256)
+[2022.10.09-17.54.15:566][328]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:566][328]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 128X128)
+[2022.10.09-17.54.15:566][328]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:566][328]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 128X128)
+[2022.10.09-17.54.15:566][328]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:566][328]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 128X128)
+[2022.10.09-17.54.15:566][328]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:566][328]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 128X128)
+[2022.10.09-17.54.15:566][328]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 128X128)
+[2022.10.09-17.54.15:566][328]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:566][328]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:567][328]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 128X128)
+[2022.10.09-17.54.15:567][328]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:567][328]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 256X256)
+[2022.10.09-17.54.15:567][328]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:567][328]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (DXT1, 128X128)
+[2022.10.09-17.54.15:567][328]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 128X128)
+[2022.10.09-17.54.15:567][328]LogTexture: Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:567][328]LogTexture: Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:568][328]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (DXT1, 128X128)
+[2022.10.09-17.54.15:568][328]LogTexture: Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:568][328]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (DXT1, 128X128)
+[2022.10.09-17.54.15:568][328]LogTexture: Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:568][328]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (DXT1, 128X128)
+[2022.10.09-17.54.15:568][328]LogTexture: Display: Building textures: HQ_Lightmap0_45 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:568][328]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (DXT1, 128X128)
+[2022.10.09-17.54.15:568][328]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (DXT1, 128X128)
+[2022.10.09-17.54.15:568][328]LogTexture: Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:569][328]LogTexture: Display: Building textures: HQ_Lightmap0_47 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:569][328]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (DXT1, 256X256)
+[2022.10.09-17.54.15:569][328]LogTexture: Display: Building textures: HQ_Lightmap0_48 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:569][328]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (DXT1, 128X128)
+[2022.10.09-17.54.15:569][328]LogTexture: Display: Building textures: HQ_Lightmap0_49 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:569][328]LogTexture: Display: Building textures: HQ_Lightmap0_50 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:569][328]LogTexture: Display: Building textures: LQ_Lightmap_0_50 (DXT1, 128X128)
+[2022.10.09-17.54.15:569][328]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (DXT1, 256X256)
+[2022.10.09-17.54.15:569][328]LogTexture: Display: Building textures: HQ_Lightmap0_51 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:570][328]LogTexture: Display: Building textures: LQ_Lightmap_0_51 (DXT1, 128X128)
+[2022.10.09-17.54.15:570][328]LogTexture: Display: Building textures: HQ_Lightmap0_52 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:570][328]LogTexture: Display: Building textures: HQ_Lightmap0_53 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:570][328]LogTexture: Display: Building textures: LQ_Lightmap_0_52 (DXT1, 128X128)
+[2022.10.09-17.54.15:570][328]LogTexture: Display: Building textures: LQ_Lightmap_0_53 (DXT1, 128X128)
+[2022.10.09-17.54.15:570][328]LogTexture: Display: Building textures: HQ_Lightmap0_54 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:570][328]LogTexture: Display: Building textures: HQ_Lightmap0_55 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:570][328]LogTexture: Display: Building textures: LQ_Lightmap_0_54 (DXT1, 128X128)
+[2022.10.09-17.54.15:570][328]LogTexture: Display: Building textures: LQ_Lightmap_0_55 (DXT1, 256X256)
+[2022.10.09-17.54.15:570][328]LogTexture: Display: Building textures: HQ_Lightmap0_56 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:570][328]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (DXT1, 256X256)
+[2022.10.09-17.54.15:570][328]LogTexture: Display: Building textures: HQ_Lightmap0_57 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:571][328]LogTexture: Display: Building textures: LQ_Lightmap_0_57 (DXT1, 256X256)
+[2022.10.09-17.54.15:571][328]LogTexture: Display: Building textures: HQ_Lightmap0_58 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:571][328]LogTexture: Display: Building textures: LQ_Lightmap_0_58 (DXT1, 128X128)
+[2022.10.09-17.54.15:571][328]LogTexture: Display: Building textures: HQ_Lightmap0_59 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:571][328]LogTexture: Display: Building textures: LQ_Lightmap_0_59 (DXT1, 128X128)
+[2022.10.09-17.54.15:571][328]LogTexture: Display: Building textures: HQ_Lightmap0_60 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:571][328]LogTexture: Display: Building textures: LQ_Lightmap_0_60 (DXT1, 128X128)
+[2022.10.09-17.54.15:571][328]LogTexture: Display: Building textures: HQ_Lightmap0_61 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:571][328]LogTexture: Display: Building textures: LQ_Lightmap_0_61 (DXT1, 256X256)
+[2022.10.09-17.54.15:571][328]LogTexture: Display: Building textures: HQ_Lightmap0_62 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:571][328]LogTexture: Display: Building textures: LQ_Lightmap_0_62 (DXT1, 128X128)
+[2022.10.09-17.54.15:576][328]LogTexture: Display: Building textures: HQ_Lightmap0_63 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:576][328]LogTexture: Display: Building textures: LQ_Lightmap_0_63 (DXT1, 128X128)
+[2022.10.09-17.54.15:576][328]LogTexture: Display: Building textures: HQ_Lightmap0_64 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:576][328]LogTexture: Display: Building textures: LQ_Lightmap_0_64 (DXT1, 128X128)
+[2022.10.09-17.54.15:576][328]LogTexture: Display: Building textures: HQ_Lightmap0_65 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:576][328]LogTexture: Display: Building textures: LQ_Lightmap_0_65 (DXT1, 128X128)
+[2022.10.09-17.54.15:576][328]LogTexture: Display: Building textures: LQ_Lightmap_0_66 (DXT1, 128X128)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: HQ_Lightmap0_66 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: HQ_Lightmap0_67 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: HQ_Lightmap0_68 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: LQ_Lightmap_0_67 (DXT1, 128X128)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: LQ_Lightmap_0_68 (DXT1, 128X128)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: HQ_Lightmap0_69 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: LQ_Lightmap_0_69 (DXT1, 128X128)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: HQ_Lightmap0_70 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: LQ_Lightmap_0_70 (DXT1, 128X128)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: HQ_Lightmap0_71 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: LQ_Lightmap_0_71 (DXT1, 128X128)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: HQ_Lightmap0_72 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: LQ_Lightmap_0_72 (DXT1, 256X256)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: LQ_Lightmap_0_73 (DXT1, 128X128)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: HQ_Lightmap0_73 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: HQ_Lightmap0_74 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:577][328]LogTexture: Display: Building textures: LQ_Lightmap_0_74 (DXT1, 128X128)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: HQ_Lightmap0_76 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: HQ_Lightmap0_75 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: LQ_Lightmap_0_76 (DXT1, 128X128)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: HQ_Lightmap0_77 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: LQ_Lightmap_0_77 (DXT1, 256X256)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: LQ_Lightmap_0_75 (DXT1, 256X256)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: HQ_Lightmap0_78 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: LQ_Lightmap_0_78 (DXT1, 128X128)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: LQ_Lightmap_0_79 (DXT1, 128X128)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: HQ_Lightmap0_80 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: HQ_Lightmap0_79 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: LQ_Lightmap_0_80 (DXT1, 128X128)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: HQ_Lightmap0_81 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: LQ_Lightmap_0_81 (DXT1, 256X256)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: HQ_Lightmap0_82 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: LQ_Lightmap_0_82 (DXT1, 128X128)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: HQ_Lightmap0_83 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:578][328]LogTexture: Display: Building textures: LQ_Lightmap_0_83 (DXT1, 256X256)
+[2022.10.09-17.54.15:579][328]LogTexture: Display: Building textures: HQ_Lightmap0_84 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:579][328]LogTexture: Display: Building textures: LQ_Lightmap_0_84 (DXT1, 256X256)
+[2022.10.09-17.54.15:579][328]LogTexture: Display: Building textures: HQ_Lightmap0_85 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:579][328]LogTexture: Display: Building textures: LQ_Lightmap_0_85 (DXT1, 128X128)
+[2022.10.09-17.54.15:579][328]LogTexture: Display: Building textures: HQ_Lightmap0_86 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:579][328]LogTexture: Display: Building textures: HQ_Lightmap0_87 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:579][328]LogTexture: Display: Building textures: LQ_Lightmap_0_86 (DXT1, 128X128)
+[2022.10.09-17.54.15:579][328]LogTexture: Display: Building textures: LQ_Lightmap_0_87 (DXT1, 128X128)
+[2022.10.09-17.54.15:579][328]LogTexture: Display: Building textures: HQ_Lightmap0_88 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:579][328]LogTexture: Display: Building textures: LQ_Lightmap_0_88 (DXT1, 128X128)
+[2022.10.09-17.54.15:579][328]LogTexture: Display: Building textures: HQ_Lightmap0_89 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:579][328]LogTexture: Display: Building textures: LQ_Lightmap_0_89 (DXT1, 128X128)
+[2022.10.09-17.54.15:579][328]LogTexture: Display: Building textures: HQ_Lightmap0_90 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:579][328]LogTexture: Display: Building textures: LQ_Lightmap_0_90 (DXT1, 128X128)
+[2022.10.09-17.54.15:579][328]LogTexture: Display: Building textures: HQ_Lightmap0_91 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:580][328]LogTexture: Display: Building textures: LQ_Lightmap_0_91 (DXT1, 128X128)
+[2022.10.09-17.54.15:580][328]LogTexture: Display: Building textures: HQ_Lightmap0_92 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:580][328]LogTexture: Display: Building textures: HQ_Lightmap0_93 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:580][328]LogTexture: Display: Building textures: LQ_Lightmap_0_92 (DXT1, 128X128)
+[2022.10.09-17.54.15:580][328]LogTexture: Display: Building textures: LQ_Lightmap_0_93 (DXT1, 128X128)
+[2022.10.09-17.54.15:580][328]LogTexture: Display: Building textures: HQ_Lightmap0_94 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:580][328]LogTexture: Display: Building textures: HQ_Lightmap0_96 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:580][328]LogTexture: Display: Building textures: LQ_Lightmap_0_94 (DXT1, 128X128)
+[2022.10.09-17.54.15:580][328]LogTexture: Display: Building textures: HQ_Lightmap0_95 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:581][328]LogTexture: Display: Building textures: LQ_Lightmap_0_95 (DXT1, 128X128)
+[2022.10.09-17.54.15:582][328]LogTexture: Display: Building textures: LQ_Lightmap_0_96 (DXT1, 256X256)
+[2022.10.09-17.54.15:582][328]LogTexture: Display: Building textures: HQ_Lightmap0_97 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:582][328]LogTexture: Display: Building textures: LQ_Lightmap_0_97 (DXT1, 128X128)
+[2022.10.09-17.54.15:582][328]LogTexture: Display: Building textures: HQ_Lightmap0_98 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:582][328]LogTexture: Display: Building textures: LQ_Lightmap_0_98 (DXT1, 256X256)
+[2022.10.09-17.54.15:582][328]LogTexture: Display: Building textures: HQ_Lightmap0_99 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:582][328]LogTexture: Display: Building textures: HQ_Lightmap0_100 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:582][328]LogTexture: Display: Building textures: LQ_Lightmap_0_99 (DXT1, 128X128)
+[2022.10.09-17.54.15:582][328]LogTexture: Display: Building textures: LQ_Lightmap_0_100 (DXT1, 128X128)
+[2022.10.09-17.54.15:582][328]LogTexture: Display: Building textures: HQ_Lightmap0_101 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:582][328]LogTexture: Display: Building textures: LQ_Lightmap_0_101 (DXT1, 128X128)
+[2022.10.09-17.54.15:582][328]LogTexture: Display: Building textures: HQ_Lightmap0_102 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:582][328]LogTexture: Display: Building textures: LQ_Lightmap_0_102 (DXT1, 256X256)
+[2022.10.09-17.54.15:583][328]LogTexture: Display: Building textures: HQ_Lightmap0_103 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:583][328]LogTexture: Display: Building textures: LQ_Lightmap_0_103 (DXT1, 256X256)
+[2022.10.09-17.54.15:583][328]LogTexture: Display: Building textures: HQ_Lightmap0_104 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:583][328]LogTexture: Display: Building textures: LQ_Lightmap_0_104 (DXT1, 256X256)
+[2022.10.09-17.54.15:583][328]LogTexture: Display: Building textures: HQ_Lightmap0_105 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:583][328]LogTexture: Display: Building textures: LQ_Lightmap_0_105 (DXT1, 128X128)
+[2022.10.09-17.54.15:583][328]LogTexture: Display: Building textures: HQ_Lightmap0_106 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:583][328]LogTexture: Display: Building textures: LQ_Lightmap_0_106 (DXT1, 128X128)
+[2022.10.09-17.54.15:584][328]LogTexture: Display: Building textures: HQ_Lightmap0_107 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:584][328]LogTexture: Display: Building textures: LQ_Lightmap_0_107 (DXT1, 128X128)
+[2022.10.09-17.54.15:585][328]LogTexture: Display: Building textures: HQ_Lightmap0_108 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:585][328]LogTexture: Display: Building textures: LQ_Lightmap_0_108 (DXT1, 256X256)
+[2022.10.09-17.54.15:585][328]LogTexture: Display: Building textures: HQ_Lightmap0_109 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:585][328]LogTexture: Display: Building textures: LQ_Lightmap_0_109 (DXT1, 256X256)
+[2022.10.09-17.54.15:585][328]LogTexture: Display: Building textures: HQ_Lightmap0_110 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:585][328]LogTexture: Display: Building textures: HQ_Lightmap0_111 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:585][328]LogTexture: Display: Building textures: LQ_Lightmap_0_110 (DXT1, 256X256)
+[2022.10.09-17.54.15:585][328]LogTexture: Display: Building textures: LQ_Lightmap_0_111 (DXT1, 256X256)
+[2022.10.09-17.54.15:585][328]LogTexture: Display: Building textures: HQ_Lightmap0_112 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:586][328]LogTexture: Display: Building textures: LQ_Lightmap_0_112 (DXT1, 128X128)
+[2022.10.09-17.54.15:586][328]LogTexture: Display: Building textures: HQ_Lightmap0_113 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:586][328]LogTexture: Display: Building textures: LQ_Lightmap_0_113 (DXT1, 256X256)
+[2022.10.09-17.54.15:586][328]LogTexture: Display: Building textures: HQ_Lightmap0_114 (AutoDXT, 256X256)
+[2022.10.09-17.54.15:586][328]LogTexture: Display: Building textures: LQ_Lightmap_0_114 (DXT1, 256X256)
+[2022.10.09-17.54.15:586][328]LogTexture: Display: Building textures: HQ_Lightmap0_115 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:587][328]LogTexture: Display: Building textures: LQ_Lightmap_0_115 (DXT1, 128X128)
+[2022.10.09-17.54.15:587][328]LogTexture: Display: Building textures: HQ_Lightmap0_116 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:587][328]LogTexture: Display: Building textures: LQ_Lightmap_0_116 (DXT1, 128X128)
+[2022.10.09-17.54.15:587][328]LogTexture: Display: Building textures: HQ_Lightmap0_117 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:587][328]LogTexture: Display: Building textures: LQ_Lightmap_0_117 (DXT1, 128X128)
+[2022.10.09-17.54.15:587][328]LogTexture: Display: Building textures: HQ_Lightmap0_118 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:587][328]LogTexture: Display: Building textures: LQ_Lightmap_0_118 (DXT1, 128X128)
+[2022.10.09-17.54.15:587][328]LogTexture: Display: Building textures: HQ_Lightmap0_119 (AutoDXT, 128X128)
+[2022.10.09-17.54.15:587][328]LogTexture: Display: Building textures: LQ_Lightmap_0_119 (DXT1, 128X128)
+[2022.10.09-17.54.15:756][328]Lightmass on SERGEY: 1:38 min total, 3.12 sec importing, 2.67 sec setup, 28.4 sec photons, 1:03 min processing, 0 ms extra exporting [324/324 mappings]. Threads: 7:26 min total, 5:24 min processing.
+[2022.10.09-17.54.15:832][328]LogStaticLightingSystem: Map_Import_BuiltData storing lightmap data for 324 meshes in 120 LightmapResourceClusters (2.7 Meshes per cluster).
+[2022.10.09-17.54.16:127][328]LogUObjectHash: Compacting FUObjectHashTables data took  11.63ms
+[2022.10.09-17.54.16:212][328]LogStaticLightingSystem: Illumination: 2:20 min (1.03 sec encoding lightmaps, 9 ms encoding shadowmaps)
+[2022.10.09-17.54.16:212][328]LogStaticLightingSystem: Lightmap texture memory:  6.9 MB (6.9 MB streaming, 0.0 MB non-streaming), 238 textures
+[2022.10.09-17.54.16:213][328]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.10.09-17.54.17:931][328]DumpUnbuiltLightIteractions
+[2022.10.09-17.54.17:931][328]Lights with unbuilt interactions: 0
+[2022.10.09-17.54.17:931][328]
+[2022.10.09-17.54.17:931][328]Primitives with unbuilt interactions: 0
+[2022.10.09-17.54.18:042][328]LogSlate: Took 0.001631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.09-17.54.18:045][329]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.10.09-17.54.18:045][329]MapCheck: New page: Map_Import - 9 окт. 2022 г., 23:54:18
+[2022.10.09-17.54.18:049][329]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4,24ms to complete.
+[2022.10.09-17.54.31:838][984]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape_Good)
+[2022.10.09-17.55.09:293][743]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape_Good)
+[2022.10.09-17.55.09:414][745]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape_Good)
+[2022.10.09-17.55.11:550][817]LogEditorViewport: Clicking Background
+[2022.10.09-17.55.14:075][920]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape_Good)
+[2022.10.09-17.56.29:175][365]LogSlate: Window 'Message Log' being destroyed
+[2022.10.09-17.56.29:196][365]LogSlate: Window 'Message Log' being destroyed
+[2022.10.09-17.56.40:376][438]LogEditorViewport: Clicking Background
+[2022.10.09-18.00.30:236][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.10.09-18.00.31:297][ 39]LogSavePackage: Moving '../../../../projects/Landscapes/UE4/Saved/Map_Import_Auto4696AA0214CC1A0CE2DF188B3F4765BDA.tmp' to '../../../../projects/Landscapes/UE4/Saved/Autosaves/Game/Landscapes/Maps/Map_Import_Auto4.umap'
+[2022.10.09-18.00.31:302][ 39]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Landscapes/Maps/Map_Import' took 1.080
+[2022.10.09-18.00.31:302][ 39]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.080
+[2022.10.09-18.02.13:437][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.10.09-18.02.18:449][489]LogSlate: Window 'Save Content' being destroyed
+[2022.10.09-18.02.18:501][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscapes/Maps/Map_Import" FILE="../../../../projects/Landscapes/UE4/Content/Landscapes/Maps/Map_Import.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.09-18.02.18:511][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.10.09-18.02.19:410][489]LogSavePackage: Moving '../../../../projects/Landscapes/UE4/Saved/Map_Import62C920CC4AEE3C93FEE8FFA59B272DFA.tmp' to '../../../../projects/Landscapes/UE4/Content/Landscapes/Maps/Map_Import.umap'
+[2022.10.09-18.02.19:462][489]LogFileHelpers: Saving map 'Map_Import' took 0.963
+[2022.10.09-18.02.19:463][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscapes/Maps/Map_Import_BuiltData" FILE="../../../../projects/Landscapes/UE4/Content/Landscapes/Maps/Map_Import_BuiltData.uasset" SILENT=true
+[2022.10.09-18.02.19:706][489]LogSavePackage: Moving '../../../../projects/Landscapes/UE4/Saved/Map_Import_BuiltDataA99BFD0346609925004B1E91B40D1B1E.tmp' to '../../../../projects/Landscapes/UE4/Content/Landscapes/Maps/Map_Import_BuiltData.uasset'
+[2022.10.09-18.02.19:878][489]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.10.09-18.02.19:894][489]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Landscapes/Maps/Map_01.Map_01
+[2022.10.09-18.02.19:894][489]Cmd: MAP LOAD FILE="../../../../projects/Landscapes/UE4/Content/Landscapes/Maps/Map_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.09-18.02.19:894][489]LightingResults: New page: Lighting Build
+[2022.10.09-18.02.19:894][489]LoadErrors: New page: Loading map: Map_01.umap
+[2022.10.09-18.02.19:901][489]LogWorld: UWorld::CleanupWorld for Map_Import, bSessionEnded=true, bCleanupResources=true
+[2022.10.09-18.02.19:902][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.09-18.02.19:902][489]MapCheck: New page: Map Check
+[2022.10.09-18.02.19:902][489]LightingResults: New page: Lighting Build
+[2022.10.09-18.02.19:916][489]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.09-18.02.19:968][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.10.09-18.02.19:980][489]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_01'.
+[2022.10.09-18.02.21:079][489]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.09-18.02.21:080][489]LogAIModule: Creating AISystem for world Map_01
+[2022.10.09-18.02.21:103][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.10.09-18.02.21:116][489]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.09-18.02.21:116][489]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,175ms to complete.
+[2022.10.09-18.02.21:116][489]LogFileHelpers: Loading map 'Map_01' took 1.222
+[2022.10.09-18.02.21:181][489]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.09-18.02.21:181][489]LogContentValidation: Display: Validating World /Game/Landscapes/Maps/Map_Import.Map_Import
+[2022.10.09-18.02.21:502][489]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 128X512)
+[2022.10.09-18.02.21:502][489]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 128X512)
+[2022.10.09-18.02.21:502][489]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.10.09-18.02.21:502][489]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.10.09-18.02.21:502][489]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2022.10.09-18.02.21:502][489]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2022.10.09-18.02.21:503][489]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X128)
+[2022.10.09-18.02.21:503][489]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X128)
+[2022.10.09-18.02.21:503][489]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 128X128)
+[2022.10.09-18.02.21:522][489]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Landscapes/Maps/Map_Import_BuiltData.Map_Import_BuiltData
+[2022.10.09-18.04.54:835][542]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape_Good)
+[2022.10.09-18.07.08:945][973]MapCheck: New page: Map Check
+[2022.10.09-18.07.08:961][973]LightingResults: New page: Lighting Build - 10 окт. 2022 г., 00:07:08
+[2022.10.09-18.07.09:131][973]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.10.09-18.07.09:134][973]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.10.09-18.07.09:134][973]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.10.09-18.07.09:135][973]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.10.09-18.07.09:135][973]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9512
+[2022.10.09-18.07.13:866][973]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.10.09-18.07.13:866][973]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.10.09-18.07.13:866][973]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.10.09-18.07.13:867][973]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.10.09-18.07.13:867][973]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.10.09-18.07.14:303][973]LogEditorBuildUtils: Build time 0:05
+[2022.10.09-18.07.44:938][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.10.09-18.08.12:581][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscapes/Maps/Map_01" FILE="../../../../projects/Landscapes/UE4/Content/Landscapes/Maps/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.09-18.08.12:593][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.09-18.08.14:370][740]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.10.09-18.08.14:377][740]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.10.09-18.08.14:387][740]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 128X512)
+[2022.10.09-18.08.14:392][740]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2022.10.09-18.08.14:402][740]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2022.10.09-18.08.14:412][740]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 128X512)
+[2022.10.09-18.08.14:414][740]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X128)
+[2022.10.09-18.08.14:419][740]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X128)
+[2022.10.09-18.08.14:423][740]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 128X128)
+[2022.10.09-18.08.14:424][740]LogSavePackage: Moving '../../../../projects/Landscapes/UE4/Saved/Map_0194AE335B4FFFDDB76E3FD2BA1F0EDC6B.tmp' to '../../../../projects/Landscapes/UE4/Content/Landscapes/Maps/Map_01.umap'
+[2022.10.09-18.08.14:486][740]AssetCheck: New page: Asset Save: Map_01
+[2022.10.09-18.08.14:486][740]LogContentValidation: Display: Validating World /Game/Landscapes/Maps/Map_01.Map_01
+[2022.10.09-18.09.10:668][259]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-18.09.38:396][ 91]Cmd: TRANSACTION UNDO
+[2022.10.09-18.09.38:396][ 91]LogEditorTransaction: Undo Move Actors
+[2022.10.09-18.12.58:453][ 70]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2022.10.09-18.12.59:142][ 70]Job has failed! Job is closed while Tasks are still PENDING
+[2022.10.09-18.12.59:142][ 70]DumpUnbuiltLightIteractions
+[2022.10.09-18.12.59:142][ 70]Lights with unbuilt interactions: 0
+[2022.10.09-18.12.59:142][ 70]
+[2022.10.09-18.12.59:142][ 70]Primitives with unbuilt interactions: 0
+[2022.10.09-18.12.59:307][ 71]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.10.09-18.12.59:307][ 71]MapCheck: New page: Map_01 - 10 окт. 2022 г., 00:12:59
+[2022.10.09-18.12.59:308][ 71]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,851ms to complete.
+[2022.10.09-18.13.03:129][216]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-18.14.02:783][569]Cmd: TRANSACTION UNDO
+[2022.10.09-18.14.02:783][569]LogEditorTransaction: Undo Attach actors
+[2022.10.09-18.14.42:062][105]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape_Good)
+[2022.10.09-18.14.43:071][133]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.09-18.14.49:718][442]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.09-18.15.04:679][581]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-18.15.06:970][658]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-18.15.10:748][859]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-18.15.12:920][978]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.09-18.15.15:118][100]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-18.15.15:424][115]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.09-18.15.17:526][231]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-18.15.17:791][243]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.09-18.15.19:519][329]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-18.15.19:761][340]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.09-18.15.26:727][712]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.09-18.15.32:271][  4]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.10.09-18.15.32:292][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.09-18.15.32:293][  4]PIE: New page: PIE session: Map_01 (10 окт. 2022 г., 00:15:32)
+[2022.10.09-18.15.32:297][  4]LogPlayLevel: Creating play world package: /Game/Landscapes/Maps/UEDPIE_0_Map_01
+[2022.10.09-18.15.32:397][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100242s)
+[2022.10.09-18.15.32:401][  4]LogAIModule: Creating AISystem for world Map_01
+[2022.10.09-18.15.32:404][  4]LogPlayLevel: PIE: World Init took: (0.007027s)
+[2022.10.09-18.15.32:405][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Landscapes/Maps/Map_01.Map_01 to /Game/Landscapes/Maps/UEDPIE_0_Map_01.Map_01 (0.107792s)
+[2022.10.09-18.15.32:421][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.10.09-18.15.32:427][  4]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.10.09-18.15.32:430][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.09-18.15.32:430][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.09-18.15.32:431][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.09-18.15.32:431][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.09-18.15.32:431][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.09-18.15.32:431][  4]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.09-18.15.32:431][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.09-18.15.32:431][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.09-18.15.32:435][  4]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.09-18.15.32:436][  4]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.09-18.15.32:445][  4]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.09-18.15.32:445][  4]LogAudioMixer: Display: 1: FrontRight
+[2022.10.09-18.15.32:456][  4]LogAudioMixer: Display: Using Audio Device ASUS VX239 (Аудио Intel(R) для дисплеев)
+[2022.10.09-18.15.32:459][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.09-18.15.32:459][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.09-18.15.32:460][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.09-18.15.32:460][  4]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.09-18.15.32:461][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.09-18.15.32:461][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.09-18.15.32:482][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.09-18.15.32:482][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.09-18.15.32:482][  4]LogInit: FAudioDevice initialized.
+[2022.10.09-18.15.32:482][  4]LogAudio: Display: Audio Device (ID: 6) registered with world 'Map_01'.
+[2022.10.09-18.15.32:556][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.09-18.15.32:561][  4]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.09-18.15.32:592][  4]LogWorld: Bringing World /Game/Landscapes/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2022.10.09-21.15.32
+[2022.10.09-18.15.32:595][  4]LogWorld: Bringing up level for play took: 0.017202
+[2022.10.09-18.15.32:599][  4]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.10.09-18.15.32:713][  4]PIE: Server logged in
+[2022.10.09-18.15.32:722][  4]PIE: Play in editor total start time 0,436 seconds.
+[2022.10.09-18.15.44:910][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.09-18.15.44:910][470]LogWorld: BeginTearingDown for /Game/Landscapes/Maps/UEDPIE_0_Map_01
+[2022.10.09-18.15.44:913][470]LogSlate: Window 'Landscapes Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.09-18.15.44:933][470]LogWorld: UWorld::CleanupWorld for Map_01, bSessionEnded=true, bCleanupResources=true
+[2022.10.09-18.15.44:944][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.09-18.15.44:975][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.09-18.15.45:039][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.09-18.15.45:060][470]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.09-18.15.45:063][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.09-18.15.45:067][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.09-18.15.45:146][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.10.09-18.15.45:197][471]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.10.09-18.16.38:797][837]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.10.09-18.18.24:271][467]Cmd: TRANSACTION UNDO
+[2022.10.09-18.18.24:271][467]LogEditorTransaction: Undo Select Brush Surface
+[2022.10.09-18.18.26:219][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.09-18.18.26:222][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscapes/Maps/Map_01" FILE="../../../../projects/Landscapes/UE4/Saved/Autosaves/Game/Landscapes/Maps/Map_01_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.09-18.18.26:941][532]LogSavePackage: Moving '../../../../projects/Landscapes/UE4/Saved/Map_01_Auto553A8462942A4677F5695FD96E69134AC.tmp' to '../../../../projects/Landscapes/UE4/Saved/Autosaves/Game/Landscapes/Maps/Map_01_Auto5.umap'
+[2022.10.09-18.18.26:943][532]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Landscapes/Maps/Map_01' took 0.732
+[2022.10.09-18.18.26:943][532]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.732
+[2022.10.09-18.18.27:973][567]Cmd: TRANSACTION UNDO
+[2022.10.09-18.18.27:973][567]LogEditorTransaction: Undo Brush Add
+[2022.10.09-18.20.27:998][ 61]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape_Good)
+[2022.10.09-18.22.49:747][545]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.10.09-18.23.31:836][753]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.10.09-18.28.27:175][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.09-18.28.27:177][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscapes/Maps/Map_01" FILE="../../../../projects/Landscapes/UE4/Saved/Autosaves/Game/Landscapes/Maps/Map_01_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.09-18.28.27:838][462]LogSavePackage: Moving '../../../../projects/Landscapes/UE4/Saved/Map_01_Auto6F92171694C6B23C5E65BCEB1883B4D2E.tmp' to '../../../../projects/Landscapes/UE4/Saved/Autosaves/Game/Landscapes/Maps/Map_01_Auto6.umap'
+[2022.10.09-18.28.27:843][462]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Landscapes/Maps/Map_01' took 0.681
+[2022.10.09-18.28.27:843][462]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.681
+[2022.10.09-18.36.46:247][953]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{7c1f8daf-5d05-4766-b1ef-06eeba89cdcf}.
+[2022.10.09-18.36.46:247][953]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.09-18.36.46:560][953]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.09-18.36.46:561][953]LogAudioMixer: Display: 1: FrontRight
+[2022.10.09-18.37.10:806][ 26]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{1847cd38-c97d-425b-a150-fcb508eabbbb}.
+[2022.10.09-18.37.10:806][ 26]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.09-18.37.10:912][ 26]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.09-18.37.10:912][ 26]LogAudioMixer: Display: 1: FrontRight
+[2022.10.09-18.37.34:241][ 96]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.10.09-18.37.34:242][ 96]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
